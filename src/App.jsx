@@ -9,33 +9,33 @@ const testData = {
     {
       id: 1,
       name: '919',
-      modelUrl: '/3dmodel/wiper_small.glb',
+      modelUrl: './3dmodel/wiper_small.glb',
       adapters: [
-        { id: 1, name: '1', modelUrl: '/3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+1' },
-        { id: 2, name: '2', modelUrl: '/3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+2' },
-        { id: 3, name: '3', modelUrl: '/3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+3' },
-        { id: 4, name: '4', modelUrl: '/3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+4' },
-        { id: 5, name: 'B1', modelUrl: '/3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+B1' },
-        { id: 6, name: 'B5', modelUrl: '/3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+B5' },
+        { id: 1, name: '1', modelUrl: './3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+1' },
+        { id: 2, name: '2', modelUrl: './3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+2' },
+        { id: 3, name: '3', modelUrl: './3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+3' },
+        { id: 4, name: '4', modelUrl: './3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+4' },
+        { id: 5, name: 'B1', modelUrl: './3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+B1' },
+        { id: 6, name: 'B5', modelUrl: './3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+B5' },
       ]
     },
     {
       id: 2,
       name: '920',
-      modelUrl: '/3dmodel/wiper_small.glb',
+      modelUrl: './3dmodel/wiper_small.glb',
       adapters: [
-        { id: 7, name: 'A', modelUrl: '/3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+A' },
-        { id: 8, name: 'B', modelUrl: '/3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+B' },
-        { id: 9, name: 'C', modelUrl: '/3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+C' },
+        { id: 7, name: 'A', modelUrl: './3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+A' },
+        { id: 8, name: 'B', modelUrl: './3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+B' },
+        { id: 9, name: 'C', modelUrl: './3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+C' },
       ]
     },
     {
       id: 3,
       name: '921',
-      modelUrl: '/3dmodel/wiper_small.glb',
+      modelUrl: './3dmodel/wiper_small.glb',
       adapters: [
-        { id: 10, name: 'X', modelUrl: '/3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+X' },
-        { id: 11, name: 'Y', modelUrl: '/3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+Y' },
+        { id: 10, name: 'X', modelUrl: './3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+X' },
+        { id: 11, name: 'Y', modelUrl: './3dmodel/kako.glb', armImage: 'https://via.placeholder.com/150?text=Adapter+Y' },
       ]
     }
   ]
